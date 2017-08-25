@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Player-for-Twitch-Heroes-on-...-twitch-:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Player_for_Twitch_Heroes_on_____twitch__jar</output-path>
+    <root id="archive" name="Player-for-Twitch-Heroes-on-...-twitch-.jar">
+      <element id="module-output" name="Player-for-Twitch-Heroes-on-...-twitch-" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jibble/pircbot/pircbot/1.5.0/pircbot-1.5.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
